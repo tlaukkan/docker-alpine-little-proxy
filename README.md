@@ -5,3 +5,7 @@ Supported environment variables:
 PROXY_PORT
 
 PROXY_HOST_WHITE_LIST
+
+Build
+
+gradle clean build distZip
