@@ -1,0 +1,3 @@
+rootProject.name = 'docker-alpine-little-proxy'
+include 'little-proxy-main'
+
